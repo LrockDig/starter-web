@@ -5,10 +5,9 @@
 
     <name> -- <role> -- <twitter>
     Jason Taylor  jason@git.training  @awesomejt
-
 # THANKS
 
-    Miranda Neal
+    Thanks be to God.
 
 # TECHNOLOGY COLOPHON
 
