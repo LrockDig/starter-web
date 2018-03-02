@@ -5,10 +5,10 @@
 
     <name> -- <role> -- <twitter>
     Jason Taylor  jason@git.training  @awesomejt
-    
+
 # THANKS
 
-    <name>
+    Miranda Neal
 
 # TECHNOLOGY COLOPHON
 
