@@ -20,4 +20,4 @@ Please for this repository and then issue Pull Request for review.
 
 ## Copyright
 
-GitTraining 2018
+2018 GitTraining All rights reserved.
